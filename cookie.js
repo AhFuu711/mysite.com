@@ -1,1 +1,1 @@
-<script>document.cookie = "flag=ctf{abcd}";</script>
+<script>document.cookie = "flag=ctf{abcd}";
